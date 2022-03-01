@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation anent the rendezvouses of the militia, for the year 1683.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05531</idno>
+            <idno type="STC">Wing S1685</idno>
+            <idno type="STC">ESTC R183401</idno>
+            <idno type="EEBO-CITATION">53981576</idno>
+            <idno type="OCLC">ocm 53981576</idno>
+            <idno type="VID">180363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180363)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation anent the rendezvouses of the militia, for the year 1683.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given under Our Signet, at Edinburgh, the twenty third day of March, one thousand six hundred eighty and three: and of Our Reign the thirtieth fifth year.</note>
+                  <note>Signed: Will. Paterson, Cls. Sti. Concilii.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Militia --  Mobilization --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:180363:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION</head>
+            <head type="sub">Anent the Rendezvouſes of the Militia, for the year 1683.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith;</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of our Privy Council, or Meſſengers at Arms, our Sheriffs in that part, conjunctly and ſeverally, ſpecially Conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as by reaſon of the not timous Intimation of the Dyets of the general Rendezvouſes of the Militia of this Our Kingdom, the laſt Summer, there was no General Rendezvouſes thereof keep<g ref="char:EOLhyphen"/>ed; and We finding it neceſſar for Our Service, that the ſaid Rendezvouſes be punctually keeped for this year, and hereafter; Have with Advice of Our Privy Council, thought fit to appoint the ſaid Rendezvouſes, for this year, to be at the Dyets and Places after ſpecified, <hi>viz.</hi> The two Regiments of Foot, and two Troups of Horſe, of the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> to be at <hi>Edinſmoore,</hi> the twenty two day of <hi>May</hi> next: The two Regiments of Foot, and two Troups of Horſe, of the Shire of <hi>Perth,</hi> to be at <hi>Perth,</hi> the twen<g ref="char:EOLhyphen"/>ty third day of the ſaid Month: The Regiment of Foot, and two Troups of Horſe, of the Shire of <hi>Forfar,</hi> at <hi>Forfar,</hi> the twenty fourth day of the ſaid Month: The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Kincardine,</hi> and <hi>Mariſchals</hi> part of <hi>Aberdene,</hi> at <hi>Aberdene,</hi> the thirtieth day of the ſaid Moneth: The Regiment of Foot, of the Shire of <hi>Bamff,</hi> and <hi>Errols</hi> part of <hi>Aberdene,</hi> and two Troups of Horſe; there at <hi>Turreff,</hi> the firſt day of <hi>June</hi> next: The Regiment of Foot, and Troup of Horſe, of the Shires of <hi>Elgin, Nairn,</hi> and part of <hi>Inverneſs,</hi> at <hi>Elgin,</hi> the fifth day of the ſaid Mouth: The Regiment of Foot, and Troup of Horſe, of the Earl of <hi>Seaforth,</hi> and Lord <hi>Lovets</hi> part of <hi>Inverneſs,</hi> at <hi>Inverneſs,</hi> the ſeventh day of the ſaid Moneth: The Regiment of Foot, and Troup of Horſe, of the Earl of <hi>Seaforth,</hi> and Lord <hi>Lovets</hi> part of at <hi>Dornoch</hi> the tenth day of the ſaid month: The Regiment of Foot, of the <hi>Stewartry</hi> of <hi>Orknay,</hi> at <hi>Kirkwa,</hi> the fifteenth day of the ſaid month: The Regiment of Foot, and Troup of Horſe, of the Shires of <hi>Linlithgow</hi> and <hi>Peebles,</hi> at <hi>Celem-moore,</hi> the firſt day of the ſaid month: The Regiment of Foot, of the Town of <hi>Edinburgh,</hi> at the Links of <hi>Leith,</hi> the ſecond day of the ſaid Month. The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Edinburgh,</hi> at <hi>Muſſelbu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh,</hi> the fifth day of the ſaid Month: The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Hadingtoun,</hi> at <hi>Beinſtour-moore,</hi> the ſixth day of the ſaid Month: The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Bervick,</hi> at <hi>Foggomoore,</hi> the ſeventh day of the ſaid Moneth: The two Regiments of Foot, and two Troups of Horſe, of the Shires of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> at <hi>Ancrum Bridge,</hi> the eigthth day of the ſaid Month. The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Drumfreis,</hi> the twelfth day of the ſaid Month: The two Troups of the Shire of <hi>Wigtoun,</hi> at <hi>Milntoun</hi> of <hi>Orr,</hi> the thirteenth of the ſaid month: The three Troups of Horſe, of the Shire of <hi>Air</hi> and part of the Shire of <hi>Renfrew,</hi> at <hi>Air,</hi> the fifteenth of the ſaid month: The reſt of the Shire of <hi>Renſrew</hi> at <hi>Renfrew,</hi> the eighteenth day of the ſaid month: The three Troups of the Shire of <hi>Lanerk,</hi> at <hi>Hamiltoun,</hi> the twenty two of the ſaid month: The Regiment of Foot, and Troup of Horſe, of the Shire of <hi>Serivling</hi> and <hi>Clackmannan,</hi> at <hi>Sauchin foord,</hi> the twenty ſixth of the ſaid month: The Regiment of the Shires of <hi>Argile, Bute</hi> and <hi>Dumbarton,</hi> at <hi>Dumbarton,</hi> the nineteenth day of the ſaid month, for the Shire of <hi>Dumbarton</hi> and <hi>Bute,</hi> and at <hi>Inverara</hi> the twenty fifth of the ſaid Moneth, for <hi>Argile</hi> Shire. And We Ordain the hail Officers of Foot and Horſe, to attend their Charges, at the ſaids Dyets of Rendezvouſes, and the Heretors and others Out-Reikers of the Sojors, to have their men preſent, <hi>(habile)</hi> accord<g ref="char:EOLhyphen"/>ing to Law; with certification to the ſaids Officers and Heretors, if they neglect their Duty herein, they ſhall be proceeded againſt, and fined conform to the Laws and Inſtructions made thereanent. And appoints the Muſter-maſter General, by <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be preſent at the ſeveral Rendezvouſes, and to return an Account to Our Council, of the Abſents and Deficients, that they may be proceed<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt according to Law. Our Will is herefore, and We Charge you ſtrictly and Command, that incontinent, theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh</hi> and ſeveral Mercat Croſſes of the Head Burghs of this Kingdom and Burghs of Regality, and ſeveral Paroch Kirks within the ſame, upon a <hi>Sunday</hi> after Divine Service, and other places needful; and there, in Our Name and Authority, by open Proclamation, make publication of the Premiſſes, that none pretend ignorance. And We Ordain the Sheriffs of the reſpective Shires, to cauſe duly publiſh theſe Preſents.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi> 
+                  <date>the twenty third day of <hi>March,</hi> One thouſand ſix hundred eighty and three: And of Our Reign, the thirtieth fifth year.</date>
+               </dateline>
+               <signed>
+                  <hi>WIL. PATERSON,</hi> Cls. Sti. Concilij.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
